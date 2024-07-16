@@ -2,8 +2,8 @@
 setlocal EnableDelayedExpansion
 set ver=v2.5.2
 set "modtargetDirectory=%userprofile%\.weave\mods"
-set "githubAPI=https://api.github.com/repos/unethicalteam/lcbud/releases/latest"
-set "githubURL=https://github.com/unethicalteam/lcbud/releases/latest"
+set "githubAPI=https://api.github.com/repos/AmizRm/lcbud/releases/latest"
+set "githubURL=https://github.com/AmizRm/lcbud/releases/latest"
 title lcbud %ver%
 
 if not exist "picker.exe" (
