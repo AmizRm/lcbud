@@ -1,6 +1,6 @@
 @echo off
 setlocal EnableDelayedExpansion
-set ver=v2.5.2
+set ver=v2.5.5
 set "modtargetDirectory=%userprofile%\.weave\mods"
 set "githubAPI=https://api.github.com/repos/AmizRm/lcbud/releases/latest"
 set "githubURL=https://github.com/AmizRm/lcbud/releases/latest"
