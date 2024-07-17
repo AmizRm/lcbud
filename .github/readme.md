@@ -3,7 +3,7 @@
 <details>
   <summary>📥 Download & Support</summary>
 
-  ### [Download lcbud Here](https://github.com/unethicalteam/lcbud/archive/refs/heads/main.zip)
+  ### [Download lcbud Here](https://github.com/AmizRm/lcbud/archive/refs/heads/main.zip)
   Need assistance? Join our [Discord Server](https://discord.gg/vhJ8Dsp9qa) for quicker support or raise a GitHub Issue.
 
 </details>
@@ -25,6 +25,7 @@
   lcbud fetches from repositories by the following authors:
 
   - [770grappenmaker](https://github.com/770grappenmaker)
+  - [AmizRm](https://github.com/AmizRm)
   - [betterclient](https://github.com/betterclient)
   - Candicey-Weave [(Codeberg)](https://codeberg.org/Candicey-Weave) / [(GitLab)](https://gitlab.com/candicey-weave)
   - [chloe](https://codeberg.org/chloe)
